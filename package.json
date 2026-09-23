@@ -1,0 +1,1 @@
+{"name":"neumorphic-timer","version":"1.0.0","private":true,"scripts":{"web":"npx http-server www","cap:add":"npx cap add android","cap:sync":"npx cap sync android","build:apk":"npm run cap:sync && cd android && ./gradlew assembleDebug"},"dependencies":{"@capacitor/core":"^8.0.0"},"devDependencies":{"@capacitor/cli":"^8.0.0","@capacitor/android":"^8.0.0","http-server":"^14.1.1"}}
