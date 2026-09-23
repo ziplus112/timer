@@ -1,0 +1,1 @@
+import type { CapacitorConfig } from '@capacitor/cli'; const config: CapacitorConfig={appId:'com.ehsan.neumorphictimer',appName:'Neumorphic Timer',webDir:'www',bundledWebRuntime:false,server:{androidScheme:'https'}}; export default config;
